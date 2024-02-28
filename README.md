@@ -18,17 +18,17 @@ Concepts Applied from Class:
 
 2. Dictionaries: Dictionaries are used to store the mapping between custom aliases and original URLs, as well as to track access counts.
 
-3. String Manipulation: String manipulation techniques are applied to generate unique short URLs and validate user inputs.
+3. Conditional Statements: Conditions are employed to handle errors, check for the existence of custom aliases, and control the flow of the program.
 
-4. Conditional Statements: Conditions are employed to handle errors, check for the existence of custom aliases, and control the flow of the program.
-
-5. File Handling: The tool may use file handling to store and retrieve data, ensuring persistence of custom aliases and access counts even after restarting the program.
+4. File Handling: The tool may use file handling to store and retrieve data, ensuring persistence of custom aliases and access counts even after restarting the program.
 
 
 How to Use:
 
 1. Clone the repository to your local machine.
 2. Run the sURL shortener in your Python environment.
-3. Choose to shorten a URL, customize an alias, or track access to an existing short URL.
+3. Choose to shorten a URL, an existing one.
 4. Follow the on-screen instructions to input the necessary information.
 5. The tool will provide you with the shortened URL or relevant information based on your chosen action.
+
+   Powerpoint presentation : https://docs.google.com/presentation/d/18x8vIk08E3PTUXm6OlP_-e41OXIGU2mP5Y0I1PXskkU/edit?usp=sharing
